@@ -26,7 +26,7 @@ Welcome to My Profile,
 
 
 
-[website]: https://iamkamlesh18.github.io/
+[website]: https://iamkamlesh18.github.io/iamkamlesh18/
 [youtube]: https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
 [instagram]: https://www.instagram.com/thekalp_18n/
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
