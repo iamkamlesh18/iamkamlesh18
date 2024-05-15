@@ -32,7 +32,7 @@ Welcome to My Profile,
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
 
 Thanks for visiting ❤️
-
+© 2024 - Kamlesh Patil. All rights reserved.
 
 
 
