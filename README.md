@@ -1,6 +1,6 @@
 ## Hi 👋
 
-### I am Kamlesh Patil (Software Engineer) 🤩
+### I am Kamlesh Patil 🤩
 
 Welcome to My Profile,
 
@@ -8,9 +8,83 @@ Welcome to My Profile,
 
 ## I'm a Developer | React | Angular | JavaScript | Node.js | SQL | YouTuber!
 
-- 🔭 I’m currently working on a Testing Domain!
+- 🔭 I’m currently working as a Software Engineer at Capgemini!
 - 🥅 Current Goals: Do more open source contributions and make more content on YouTube
-- ⚡ Fun fact: I love to play Football (Day & Night)🤩
+- ⚡ Fun fact: I love to play Football (Day & Night) 🤩
+
+## About Me
+
+With substantial experience in Development, React, Angular, JavaScript, Node.js, and SQL, I possess a robust skill set in front-end and back-end technologies. I'm actively seeking opportunities to further enhance my expertise in these areas.
+
+## Experience
+
+### Software Engineer at Capgemini (Oct 2021 - Present)
+
+- Developed an automotive fleet management application.
+- Created efficient UI components and conducted unit testing.
+- Identified and rectified bugs in both frontend and backend components.
+- Developed and designed efficient APIs and UIs for Loan Application.
+- Provided weekly project updates and maintained JIRA for tracking.
+
+### Digital Marketing & Graphic Designer at Optima Life Sciences Pvt. Ltd. (Dec 2020 - Jun 2021)
+
+- Managed digital marketing campaigns and graphic design tasks.
+- Created visual content for social media and marketing materials.
+
+## Education
+
+- R.C. Patel Institute of Technology Shirpur, 2019
+- SMT. S. S. Patil Institute Of Technology Chopda, 2016
+
+## Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** Angular, React.js, Node.js
+- **Programming:** Python, Java
+- **Databases:** SQL, MongoDB
+
+## Hobbies and Interests
+
+- **Coding and Technology:** Exploring new programming languages and frameworks, participating in hackathons, and contributing to open-source projects.
+- **Reading:** Enjoying books on technology, science fiction, and personal development.
+- **Gaming:** Playing strategy and puzzle games that challenge the mind.
+- **Traveling:** Visiting new places to experience different cultures and cuisines.
+- **Fitness:** Engaging in activities like running, cycling, or yoga to maintain a healthy lifestyle.
+- **Music:** Playing a musical instrument or discovering new music genres.
+- **Cooking:** Experimenting with new recipes and cooking techniques.
+- **Photography:** Capturing moments and landscapes through the lens.
+- **Blogging:** Writing about technology trends, personal experiences, or tutorials.
+- **DIY Projects:** Working on hands-on projects like home improvement or electronics.
+
+## Certifications
+
+- Agile Software Development - Coursera
+- Responsive Web Design - freeCodeCamp
+- Programming with JavaScript - Coursera
+- Python for Everybody - Coursera
+- GitHub Fundamentals - Coursera
+- Microsoft Azure Services and Concepts - Pluralsight
+
+## Projects
+
+- [Table Generator](TableGenerator.html)
+- [Little Lemon Restaurant](littlelemon.html)
+
+## Contact Details
+
+- **Email:** [patilkamlesh1811@gmail.com](mailto:patilkamlesh1811@gmail.com)
+- **Address:** S/o Subhash Patil, At Anwarde Bk Post Vadhoda Tal Chopda Dist Jalgaon
+- **Phone:** +91-7770000347
+
+## Social Media
+
+- [LinkedIn](https://www.linkedin.com/in/iamkamlesh18/)
+- [GitHub](https://github.com/iamkamlesh18)
+- [Facebook](https://www.facebook.com/itzzmekp)
+- [Instagram](https://www.instagram.com/thekalpesh9/)
+
+This website is made with ❤ by Kamlesh Patil
+
 
 
 ### Connect with me:
