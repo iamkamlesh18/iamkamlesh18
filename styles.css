@@ -1,0 +1,221 @@
+/* General */
+body {
+  font-family: "Montserrat", sans-serif;
+  background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);
+  color: white;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  line-height: 1.6;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    max-width: 800px;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+/* Ensure other styles do not override .container */
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.project-link {
+  display: block;
+  margin-top: 10px;
+  padding: 5px 5px;
+  background-color: #2575fc;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.project-link:hover {
+  background-color: #6a11cb;
+  transform: scale(1.05);
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* Navbar Styles */
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.nav-link {
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+/* Header Section */
+header {
+  background: linear-gradient(90deg, #1f4037 0%, #99f2c8 100%);
+  color: white;
+  text-align: center;
+  padding: 5rem 0;
+}
+
+header img {
+  border: 5px solid white;
+  width: 500px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+header .lead {
+  font-size: 1.2rem;
+}
+
+header .btn {
+  font-weight: 700;
+  padding: 0.75rem 1.5rem;
+}
+
+.social-icons a {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.social-icons a:hover {
+  color: #ffc107;
+}
+
+/* Section Headers */
+section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* About Section */
+#about, #contact {
+  padding: 3rem 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+#about p {
+  font-weight: 400;
+}
+
+/* Resume Section */
+#resume {
+  padding: 3rem 0;
+}
+
+#resume h3 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+#resume h4 {
+  font-size: 1.3rem;
+  margin-top: 1rem;
+}
+
+/* Contact Section */
+#contact h5 {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
+#contact p, #contact a {
+  font-size: 1rem;
+  color: #333;
+}
+
+#contact a:hover {
+  color: #ffc107;
+}
+
+/* Footer */
+footer {
+  background: #343a40;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+} 
+
+ footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  content: 'â¤';
+  color: #ffc107;
+}
+
+
+/* Footer */
+/* footer {
+  background: #343a40;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+footer p {
+  margin: 0.2rem 0;
+}
+
+footer p::after {
+  content: ' â¤';
+  color: #ffc107;
+} */
+
+
+/* Media queries */
+@media screen and (max-width: 992px) {
+  header h1 {
+    font-size: 48px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header h1 {
+    font-size: 32px;
+  }
+
+  header h2 {
+    font-size: 24px;
+  }
+
+  .icon-link {
+    font-size: 24px;
+  }
+
+  .download-text {
+    display: inline-block;
+  }
+}
