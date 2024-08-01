@@ -2,19 +2,17 @@
 
 ### I am Kamlesh Patil 🤩
 
-Welcome to My Profile,
-
-<br/>
+Welcome to My Profile!
 
 ## I'm a Developer | React | Angular | JavaScript | Node.js | SQL | YouTuber!
 
 - 🔭 I’m currently working as a Software Engineer at Capgemini!
-- 🥅 Current Goals: Do more open source contributions and make more content on YouTube
+- 🥅 Current Goals: Contribute more to open source and create more content on YouTube
 - ⚡ Fun fact: I love to play Football (Day & Night) 🤩
 
 ## About Me
 
-With substantial experience in Development, React, Angular, JavaScript, Node.js, and SQL, I possess a robust skill set in front-end and back-end technologies. I'm actively seeking opportunities to further enhance my expertise in these areas.
+With substantial experience in development, including React, Angular, JavaScript, Node.js, and SQL, I possess a robust skill set in both front-end and back-end technologies. I'm actively seeking opportunities to further enhance my expertise in these areas.
 
 ## Experience
 
@@ -43,19 +41,6 @@ With substantial experience in Development, React, Angular, JavaScript, Node.js,
 - **Programming:** Python, Java
 - **Databases:** SQL, MongoDB
 
-## Hobbies and Interests
-
-- **Coding and Technology:** Exploring new programming languages and frameworks, participating in hackathons, and contributing to open-source projects.
-- **Reading:** Enjoying books on technology, science fiction, and personal development.
-- **Gaming:** Playing strategy and puzzle games that challenge the mind.
-- **Traveling:** Visiting new places to experience different cultures and cuisines.
-- **Fitness:** Engaging in activities like running, cycling, or yoga to maintain a healthy lifestyle.
-- **Music:** Playing a musical instrument or discovering new music genres.
-- **Cooking:** Experimenting with new recipes and cooking techniques.
-- **Photography:** Capturing moments and landscapes through the lens.
-- **Blogging:** Writing about technology trends, personal experiences, or tutorials.
-- **DIY Projects:** Working on hands-on projects like home improvement or electronics.
-
 ## Certifications
 
 - Agile Software Development - Coursera
@@ -65,27 +50,10 @@ With substantial experience in Development, React, Angular, JavaScript, Node.js,
 - GitHub Fundamentals - Coursera
 - Microsoft Azure Services and Concepts - Pluralsight
 
-## Projects
-
-- [Table Generator](TableGenerator.html)
-- [Little Lemon Restaurant](littlelemon.html)
-
 ## Contact Details
 
 - **Email:** [patilkamlesh1811@gmail.com](mailto:patilkamlesh1811@gmail.com)
-- **Address:** S/o Subhash Patil, At Anwarde Bk Post Vadhoda Tal Chopda Dist Jalgaon
 - **Phone:** +91-7770000347
-
-## Social Media
-
-- [LinkedIn](https://www.linkedin.com/in/iamkamlesh18/)
-- [GitHub](https://github.com/iamkamlesh18)
-- [Facebook](https://www.facebook.com/itzzmekp)
-- [Instagram](https://www.instagram.com/thekalpesh9/)
-
-This website is made with ❤ by Kamlesh Patil
-
-
 
 ### Connect with me:
 
@@ -93,70 +61,16 @@ This website is made with ❤ by Kamlesh Patil
 [<img align="left" alt="Smart BearBulls | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="kamleshpatil1811 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thekalp_18n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iamkamlesh18.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
+[<img align="left" alt="itzzmekp | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
-<br />
-
-
 
 [website]: https://iamkamlesh18.github.io/iamkamlesh18/
 [youtube]: https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
 [instagram]: https://www.instagram.com/thekalp_18n/
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
-[website1]: https://iamkamlesh18.github.io/my-portfolio/
+[facebook]: https://www.facebook.com/itzzmekp
 
 Thanks for visiting ❤️
 <br />
 © 2024 - Kamlesh Patil. All rights reserved.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-Example #1 - no styling
-Made with ❤ in Switzerland
-Made with ♥ in Switzerland
-Made with ♡ in Switzerland
-Made with ❤️ in Switzerland
-Made with ♥️ in Switzerland
-
-Example #2 - inline-styled ❤
-Made with <span style="color: #e25555;">&#9829;</span> in Switzerland
-Made with <span style="color: #e25555;">&hearts;</span> in Switzerland
-
-Example #3 - CSS-style class for ❤
-<style>.heart{color:#e25555;}</style>
-Made with <span class="heart">♥</span> in Switzerland
-
-Example #4 - external ♥-icon
-<link rel="stylesheet" type="text/css" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
-Made with <i class="icon ion-heart"></i> in Switzerland
-Made with <i class="icon ion-heart" style="color: #e25555;"></i> in Switzerland
-
-Example #5 - inline svg (provided by FontAwesome)
-Made with <svg viewBox="0 0 1792 1792" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" style="height: 0.8rem;"><path d="M896 1664q-26 0-44-18l-624-602q-10-8-27.5-26T145 952.5 77 855 23.5 734 0 596q0-220 127-344t351-124q62 0 126.5 21.5t120 58T820 276t76 68q36-36 76-68t95.5-68.5 120-58T1314 128q224 0 351 124t127 344q0 221-229 450l-623 600q-18 18-44 18z" fill="#e25555"></path></svg> in Switzerland
-
-Example #6 - JavaScript Console log
-<script>
-console.info(
-  'Made with %c♥%c in Switzerland',
-  'color: #e25555', 'color: unset'
-);
-</script>
-
- -->
