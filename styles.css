@@ -7,27 +7,28 @@ body {
   padding: 0;
   scroll-behavior: smooth;
   line-height: 1.6;
+  padding-top: 70px; /* Adjust based on the height of your navbar */
 }
 
 .container {
-    background-color: rgba(255, 255, 255, 0.9);
-    border-radius: 10px;
-    padding: 20px;
-    width: 80%;
-    max-width: 800px;
-    color: #333;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    animation: fadeIn 1.5s ease-in-out;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  max-width: 800px;
+  color: #333;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  animation: fadeIn 1.5s ease-in-out;
 }
 
 /* Ensure other styles do not override .container */
 .py-5 {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
 }
 
 .bg-light {
-    background-color: #f8f9fa !important;
+  background-color: #f8f9fa !important;
 }
 
 .project-link {
@@ -64,6 +65,10 @@ ul li {
 .navbar {
   margin-bottom: 0;
   border-radius: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it's above other content */
 }
 
 .nav-link {
@@ -86,7 +91,7 @@ header {
 
 header img {
   border: 5px solid white;
-  width: 500px;
+  width: 200px;
 }
 
 header h1 {
@@ -164,9 +169,9 @@ footer {
   color: white;
   text-align: center;
   padding: 1rem 0;
-} 
+}
 
- footer a {
+footer a {
   color: white;
   text-decoration: none;
 }
@@ -175,7 +180,6 @@ footer a:hover {
   content: 'â¤';
   color: #ffc107;
 }
-
 
 /* Footer */
 /* footer {
