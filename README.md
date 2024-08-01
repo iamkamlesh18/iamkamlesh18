@@ -6,7 +6,7 @@ Welcome to My Profile,
 
 <br/>
 
-## I'm a Developer, Automation Tester, Trader and YouTuber!
+## I'm a Developer | React | Angular | JavaScript | Node.js | SQL | YouTuber!
 
 - 🔭 I’m currently working on a Testing Domain!
 - 🥅 Current Goals: Do more open source contributions and make more content on YouTube
