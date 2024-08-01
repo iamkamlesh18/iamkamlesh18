@@ -19,7 +19,7 @@ Welcome to My Profile,
 [<img align="left" alt="Smart BearBulls | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="kamleshpatil1811 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thekalp_18n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="iamkamlesh18.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
 
 <br />
 <br />
@@ -27,10 +27,10 @@ Welcome to My Profile,
 
 
 [website]: https://iamkamlesh18.github.io/iamkamlesh18/
-[website]: https://iamkamlesh18.github.io/my-portfolio/
 [youtube]: https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
 [instagram]: https://www.instagram.com/thekalp_18n/
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
+[website1]: https://iamkamlesh18.github.io/my-portfolio/
 
 Thanks for visiting ❤️
 <br />
