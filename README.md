@@ -4,7 +4,7 @@
 
 Welcome to My Profile!
 
-## I'm a Developer | React | Angular | JavaScript | Node.js | SQL | YouTuber!
+## I'm a Developer | SDET | Java | React | Angular | JavaScript | Node.js | SQL | YouTuber!
 
 - 🔭 I’m currently working as a Software Engineer at Capgemini!
 - 🥅 Current Goals: Contribute more to open source and create more content on YouTube
@@ -12,7 +12,7 @@ Welcome to My Profile!
 
 ## About Me
 
-With substantial experience in development, including React, Angular, JavaScript, Node.js, and SQL, I possess a robust skill set in both front-end and back-end technologies. I'm actively seeking opportunities to further enhance my expertise in these areas.
+With substantial experience in Development, Automation Testing using Java & Selenium, including React, Angular, JavaScript, Node.js, and SQL, I possess a robust skill set in both front-end and back-end technologies. I'm actively seeking opportunities to further enhance my expertise in these areas.
 
 ## Experience
 
@@ -55,6 +55,9 @@ With substantial experience in development, including React, Angular, JavaScript
 - **Email:** [patilkamlesh1811@gmail.com](mailto:patilkamlesh1811@gmail.com)
 - **Phone:** +91-7770000347
 
+###**Portfolio Website - In Progress**
+[website]: https://iamkamlesh18.github.io/my-portfolio/
+
 ### Connect with me:
 
 [<img align="left" alt="iamkamlesh18.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -70,7 +73,7 @@ With substantial experience in development, including React, Angular, JavaScript
 [instagram]: https://www.instagram.com/thekalp_18n/
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
 [facebook]: https://www.facebook.com/itzzmekp
-
+<br />
 Thanks for visiting ❤️
 <br />
 © 2024 - Kamlesh Patil. All rights reserved.
