@@ -55,9 +55,8 @@ With substantial experience in Development, Automation Testing using Java & Sele
 - **Email:** [patilkamlesh1811@gmail.com](mailto:patilkamlesh1811@gmail.com)
 - **Phone:** +91-7770000347
 
-### **Portfolio Website - In Progress**
-[<img align="left" alt="iamkamlesh18.github.io/my-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1] 
-[website1]: https://iamkamlesh18.github.io/my-portfolio/
+### **Portfolio Website - In Progress** - [<img align="left" alt="iamkamlesh18.github.io/my-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[website]: https://iamkamlesh18.github.io/my-portfolio/
 
 ### Connect with me:
 
