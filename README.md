@@ -56,13 +56,15 @@ With substantial experience in Development, Automation Testing using Java & Sele
 - **Phone:** +91-7770000347
 
 ### **Portfolio Website - In Progress**
+[<img align="left" alt="iamkamlesh18.github.io/my-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+<br />
 [website]: https://iamkamlesh18.github.io/my-portfolio/
 
 ### Connect with me:
 
-[<img align="left" alt="iamkamlesh18.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="iamkamlesh18.github.io/iamkamlesh18" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Smart BearBulls | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="kamleshpatil1811 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iamkamlesh18 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thekalp_18n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="itzzmekp | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
