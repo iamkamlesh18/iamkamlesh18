@@ -13,8 +13,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <!-- Feather icons -->
   <script src="https://unpkg.com/feather-icons"></script>
-  <!-- Custom CSS -->
+  <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+  <!-- Custom CSS -->
   <link rel="stylesheet" href="styles.css" />
 </head>
 
@@ -30,221 +31,140 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="#about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#resume">Resume</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#contact">Contact</a>
-          </li>
+          <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#resume">Resume</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
         </ul>
       </div>
     </div>
   </nav>
 
-
   <!-- Header Section -->
-  <header class="bg-dark text-white text-center py-5">
+  <header class="bg-dark text-white text-center py-5" id="home">
     <div>
       <img src="avatar-copy.png" class="rounded-circle mb-3" alt="Kamlesh Patil" width="150" />
       <h1 class="fw-bold">Kamlesh Patil</h1>
-      <p class="lead">
-        Development | React | Angular | JavaScript | Node.js | SQL
-      </p>
-      <h3>Software Engineer</h3>
+      <p class="lead">Automation Test Engineer | Pune, India</p>
+      <h3>4+ Years Experience in Automation & Testing</h3>
       <div class="social-icons mt-3">
-        <a href="https://www.linkedin.com/in/iamkamlesh18/" target="_blank" class="text-white me-3"><i
-            data-feather="linkedin"></i></a>
-        <a href="https://github.com/iamkamlesh18" target="_blank" class="text-white me-3"><i
-            data-feather="github"></i></a>
-        <a href="https://www.facebook.com/itzzmekp" target="_blank" class="text-white me-3"><i
-            data-feather="facebook"></i></a>
-        <a href="https://www.instagram.com/thekalpesh9/" target="_blank" class="text-white me-3"><i
-            data-feather="instagram"></i></a>
+        <a href="https://www.linkedin.com/in/iamkamlesh18/" target="_blank" class="text-white me-3"><i data-feather="linkedin"></i></a>
+        <a href="https://github.com/iamkamlesh18" target="_blank" class="text-white me-3"><i data-feather="github"></i></a>
+        <a href="https://www.facebook.com/itzzmekp" target="_blank" class="text-white me-3"><i data-feather="facebook"></i></a>
+        <a href="https://www.instagram.com/thekalpesh9/" target="_blank" class="text-white me-3"><i data-feather="instagram"></i></a>
       </div>
 
-      <!-- Button trigger modal -->
+      <!-- Download Button -->
       <a href="#" class="btn btn-warning btn-lg mt-4" data-bs-toggle="modal" data-bs-target="#confirmDownloadModal">
         <i data-feather="arrow-down"></i> Download CV
       </a>
+    </div>
+  </header>
 
-      <!-- Modal -->
-      <div class="modal fade" id="confirmDownloadModal" tabindex="-1" aria-labelledby="confirmDownloadModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title text-dark" id="confirmDownloadModalLabel">
-                Download CV
-              </h5>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body text-dark">
-              <!-- Add class text-dark to change text color to dark -->
-              <p>Do you want to download the CV?</p>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
-                No
-              </button>
-              <a href="./Automation KamleshPatil_CV.pdf" class="btn btn-primary" download="KamleshPatil_CV.pdf">Yes</a>
-            </div>
-          </div>
+  <!-- Download CV Modal -->
+  <div class="modal fade" id="confirmDownloadModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title text-dark">Download CV</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body text-dark">
+          <p>Do you want to download the CV?</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">No</button>
+          <a href="./Automation_KamleshPatil_CV.pdf" class="btn btn-primary" download="KamleshPatil_CV.pdf">Yes</a>
         </div>
       </div>
     </div>
-  </header>
+  </div>
 
   <!-- About Section -->
   <section id="about" class="py-5 bg-light">
     <div class="container">
-      <h2 class="text-center fw-bold mb-4">About</h2>
+      <h2 class="text-center fw-bold mb-4">Profile Summary</h2>
       <p>
-        "With substantial experience in Development, React, Angular, JavaScript, 
-        Node.js, and SQL, I possess a robust skill set in front-end and back-end technologies. 
-        I'm actively seeking opportunities to further enhance my expertise in these areas."
+        Automation Test Engineer with 4 years of experience in designing and delivering robust test automation frameworks across domains including Retail Banking, Capital Markets, and BFSI. 
+        Expert in scalable solutions using Java, Selenium, Serenity BDD, Cucumber, and REST Assured, with strong command over SQL, API validation, and CI/CD integrations using GitLab, GitHub, Jenkins, and Maven. 
+        Known for ensuring high-quality delivery in Agile teams through effective test strategies and execution.
       </p>
     </div>
   </section>
 
-
   <!-- Resume Section -->
   <section id="resume" class="py-5">
     <div class="container">
-      <h2 class="text-center fw-bold mb-4">
-        <i class="fas fa-file-alt"></i> Resume
-      </h2>
+      <h2 class="text-center fw-bold mb-4"><i class="fas fa-file-alt"></i> Resume</h2>
+
+      <!-- Experience -->
       <div class="mb-5">
         <h3><i class="fas fa-briefcase"></i> Experience</h3>
 
         <div class="mb-4">
-          <h4>Software Engineer at Capgemini</h4>
-          <p><em>Oct 2021 - Present</em></p>
+          <h4>Senior Software Engineer at Capgemini</h4>
+          <p><em>Sept 2021 – Present</em></p>
+
           <ul class="list-unstyled">
-            <li>
-              <strong>Project: Fleet Management Application - (May 2023 - Present)</strong>
-            </li>
-            <li>• Developed an automotive fleet management application.</li>
-            <li>• Created efficient UI components and conducted unit testing.</li>
-            <li>• Identified and rectified bugs in both frontend and backend components.</li>
-            <li>• Implemented effective solutions for reported issues.</li>
-            <li>
-              <strong>Project: Loan Application - (Jul 2022 - May 2023)</strong>
-            </li>
-            <li>• Developed and designed efficient APIs and UIs for Loan Application</li>
-            <li>• Collaborated with team members to identify and resolve software bugs.</li>
-            <li>• Provided weekly project updates and maintained JIRA for tracking.</li>
-            <li>• Delivered high-quality solutions on time.</li>
-            <li>
-              <strong>Project: Progress Plus - (Sept 2021 - Jun 2022)</strong>
-            </li>
-            <li>• Developed an introductory portal for new joiners.</li>
-            <li>• Provided essential resources for employees throughout their tenure.</li>
-            <li>• Ensured seamless access to resources and information.</li>
-            <li>• Delivered project on time and met all client requirements and expectations.</li>
+            <li><strong>Account: COOP (Jan 2025 – Current)</strong></li>
+            <li>• Designed and maintained automation framework using Serenity BDD + Java.</li>
+            <li>• Created UI & API test suites integrated into GitLab CI/CD pipelines.</li>
+            <li>• Identified and resolved frontend/backend bugs with fast turnaround.</li>
+            <li>• Supported Agile delivery cycles with high test coverage and maintainability.</li>
           </ul>
-        </div>
 
+          <ul class="list-unstyled mt-3">
+            <li><strong>Account: Elements (May 2023 – Dec 2024)</strong></li>
+            <li>• Developed automation using custom Rainbow framework (YAML + Java).</li>
+            <li>• Validated E2E workflows across tracking, maintenance & asset modules.</li>
+            <li>• Built reusable components and test data drivers for regression packs.</li>
+            <li>• Received client appreciation for framework ownership and execution quality.</li>
+          </ul>
 
-        <div class="mb-4">
-          <h4>
-            Digital Marketing & Graphic Designer at Optima Life Sciences Pvt.
-            Ltd.
-          </h4>
-          <p><em>Dec 2020 - Jun 2021</em></p>
-          <ul class="list-unstyled">
-            <li>
-              • Managed digital marketing campaigns and graphic design tasks.
-            </li>
-            <li>
-              • Created visual content for social media and marketing
-              materials.
-            </li>
+          <ul class="list-unstyled mt-3">
+            <li><strong>Account: Union Bank (Sept 2021 – May 2023)</strong></li>
+            <li>• Automated key workflows across Loan, Card, and Digital Banking systems using Selenium.</li>
+            <li>• Created robust test cases from BRDs and mapping documents.</li>
+            <li>• Performed test execution, reporting, and traceability via JIRA and UAT signoffs.</li>
+            <li>• Delivered functional and regression coverage using Selenium-Java with 100% closure.</li>
           </ul>
         </div>
       </div>
 
-      <div class="mb-5">
-        <h3><i class="fas fa-graduation-cap"></i> Education</h3>
-        <p>R.C. Patel Institute of Technology Shirpur, 2019</p>
-        <p>SMT. S. S. Patil Institute Of Technology Chopda, 2016</p>
-      </div>
-
+      <!-- Skills -->
       <div class="mb-5">
         <h3><i class="fas fa-code"></i> Skills</h3>
         <ul class="list-unstyled">
-          <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
-          <li><strong>Frameworks:</strong> Angular, React.js, Node.js</li>
-          <li><strong>Programming:</strong> Python, Java</li>
-          <li><strong>Databases:</strong> SQL, MongoDB</li>
+          <li><strong>Automation:</strong> Serenity BDD, Selenium, Cucumber, TestNG</li>
+          <li><strong>Languages:</strong> Java, C#, JavaScript, Python, SQL</li>
+          <li><strong>Build Tools:</strong> Maven</li>
+          <li><strong>Methodologies:</strong> Agile & Scrum</li>
         </ul>
       </div>
 
+      <!-- Tools -->
       <div class="mb-5">
-        <h3>
-          <i class="fa fa-home" aria-hidden="true"></i> Hobbies and Interests
-        </h3>
+        <h3><i class="fas fa-tools"></i> Software & Tools</h3>
         <ul class="list-unstyled">
-          <li>
-            <strong>Coding and Technology:</strong> Exploring new programming
-            languages and frameworks, participating in hackathons, and
-            contributing to open-source projects.
-          </li>
-          <li>
-            <strong>Reading:</strong> Enjoying books on technology, science
-            fiction, and personal development.
-          </li>
-          <li>
-            <strong>Gaming:</strong> Playing strategy and puzzle games that
-            challenge the mind.
-          </li>
-          <li>
-            <strong>Traveling:</strong> Visiting new places to experience
-            different cultures and cuisines.
-          </li>
-          <li>
-            <strong>Fitness:</strong> Engaging in activities like running,
-            cycling, or yoga to maintain a healthy lifestyle.
-          </li>
-          <li>
-            <strong>Music:</strong> Playing a musical instrument or
-            discovering new music genres.
-          </li>
-          <li>
-            <strong>Cooking:</strong> Experimenting with new recipes and
-            cooking techniques.
-          </li>
-          <li>
-            <strong>Photography:</strong> Capturing moments and landscapes
-            through the lens.
-          </li>
-          <li>
-            <strong>Blogging:</strong> Writing about technology trends,
-            personal experiences, or tutorials.
-          </li>
-          <li>
-            <strong>DIY Projects:</strong> Working on hands-on projects like
-            home improvement or electronics.
-          </li>
+          <li>IntelliJ IDEA, Eclipse, VS Code</li>
+          <li>BrowserStack, MySQL</li>
+          <li>Git, GitLab & GitHub</li>
+          <li>Jenkins, JIRA, Postman</li>
         </ul>
       </div>
 
+      <!-- Certifications -->
       <div class="mb-5">
         <h3><i class="fas fa-certificate"></i> Certifications</h3>
-        <p>Agile Software Development - Coursera</p>
-        <p>Responsive Web Design - freeCodeCamp</p>
-        <p>Programming with JavaScript - Coursera</p>
-        <p>Python for Everybody - Coursera</p>
-        <p>GitHub Fundamentals - Coursera</p>
-        <p>Microsoft Azure Services and Concepts - Pluralsight</p>
+        <p>Microsoft Azure Fundamentals (AZ-900)</p>
+        <p>Microsoft AI Fundamentals (AI-900)</p>
+        <p>Agile Software Development – Coursera</p>
       </div>
 
+      <!-- Education -->
       <div class="mb-5">
-        <h3><i class="fas fa-project-diagram"></i> Projects</h3>
-        <p><strong><a class="project-link" href="TableGenerator.html" target="_blank">Table Generator</a></strong></p>
-        <p><strong><a class="project-link" href="littlelemon.html" target="_blank">Little Lemon Restaurant</a></strong></p>
+        <h3><i class="fas fa-graduation-cap"></i> Education</h3>
+        <p><strong>BE Mechanical</strong> – R.C. Patel Institute of Technology Shirpur, 2019</p>
+        <p><strong>Diploma</strong> – Smt. S.S. Patil Institute of Technology Chopda, 2016</p>
       </div>
     </div>
   </section>
@@ -255,20 +175,23 @@
       <h2 class="text-center fw-bold mb-4">Contact Details</h2>
       <div class="mb-3">
         <h5>Email:</h5>
-        <p>
-          <a href="mailto:patilkamlesh1811@gmail.com">patilkamlesh1811@gmail.com</a>
-        </p>
-      </div>
-      <div class="mb-3">
-        <h5>Address:</h5>
-        <p>
-          S/o Subhash Patil, At Anwarde Bk Post Vadhoda Tal Chopda Dist
-          Jalgaon
-        </p>
+        <p><a href="mailto:patilkamlesh1811@gmail.com">patilkamlesh1811@gmail.com</a></p>
       </div>
       <div class="mb-3">
         <h5>Phone:</h5>
         <p>+91-7770000347</p>
+      </div>
+      <div class="mb-3">
+        <h5>LinkedIn:</h5>
+        <p><a href="https://www.linkedin.com/in/iamkamlesh18/" target="_blank">linkedin.com/in/iamkamlesh18</a></p>
+      </div>
+      <div class="mb-3">
+        <h5>GitHub:</h5>
+        <p><a href="https://github.com/iamkamlesh18" target="_blank">github.com/iamkamlesh18</a></p>
+      </div>
+      <div class="mb-3">
+        <h5>Portfolio Website:</h5>
+        <p><a href="#">(Coming Soon)</a></p>
       </div>
     </div>
   </section>
@@ -276,14 +199,11 @@
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <!-- Feather icons initialization -->
-  <script>
-    feather.replace();
-  </script>
+  <script>feather.replace();</script>
 
   <footer class="text-center py-3 bg-dark text-white">
-    <p>© 2024 - Kamlesh Patil</p>
+    <p>© 2025 - Kamlesh Patil</p>
     <p>This website is made with ❤</p>
   </footer>
 </body>
-
 </html>
