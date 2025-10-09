@@ -43,6 +43,8 @@ With substantial experience in Development, Automation Testing using Java & Sele
 
 ## Certifications
 
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
 - Agile Software Development - Coursera
 - Responsive Web Design - freeCodeCamp
 - Programming with JavaScript - Coursera
