@@ -4,15 +4,15 @@
 
 Welcome to My Profile!
 
-## I'm a Developer | SDET | Java | React | Angular | JavaScript | Node.js | SQL | YouTuber!
+## I'm a Software Developer | 3x Azure Certified | C# | React | Angular | JavaScript | Node.js | SQL | YouTuber!
 
-- 🔭 I’m currently working as a Software Engineer at Capgemini!
+- 🔭 I’m currently working as a Senior Software Engineer at Capgemini!
 - 🥅 Current Goals: Contribute more to open source and create more content on YouTube
 - ⚡ Fun fact: I love to play Football (Day & Night) 🤩
 
 ## About Me
 
-With substantial experience in Development, Automation Testing using Java & Selenium, including React, Angular, JavaScript, Node.js, and SQL, I possess a robust skill set in both front-end and back-end technologies. I'm actively seeking opportunities to further enhance my expertise in these areas.
+Experienced in .NET Core, C#, Web API, React, Angular, JavaScript, SQL Server, Azure Functions, Azure App Services, Git, GitHub, CI/CD pipelines, and full-stack development. I combine backend, frontend, cloud, and API skills with experience in automation and testing. Actively seeking opportunities to grow further in backend engineering, cloud development, and full-stack product building.
 
 ## Experience
 
@@ -36,19 +36,22 @@ With substantial experience in Development, Automation Testing using Java & Sele
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** Angular, React.js, Node.js
-- **Programming:** Python, Java
-- **Databases:** SQL, MongoDB
+- **Languages:** C#, JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** .NET Core, ASP.NET Web API, Angular, React.js, Node.js
+- **Programming:** C#, Java, Python (learning level)
+- **Databases:** SQL Server, MySQL, MongoDB (familiar)
+- **Cloud:** Azure (Functions, App Services, Storage), Azure DevOps (exposure)
+- **DevOps:** CI/CD, Jenkins, GitHub Actions
+- **Tools:** Git, GitHub, GitLab, Postman, Visual Studio, VS Code, SSMS
 
 ## Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure Developer Associate (AZ-204)
 - Agile Software Development - Coursera
 - Responsive Web Design - freeCodeCamp
 - Programming with JavaScript - Coursera
-- Python for Everybody - Coursera
 - GitHub Fundamentals - Coursera
 - Microsoft Azure Services and Concepts - Pluralsight
 
