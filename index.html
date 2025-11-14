@@ -5,28 +5,18 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kamlesh Patil Resume</title>
-  <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <!-- Montserrat font -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <!-- Feather icons -->
   <script src="https://unpkg.com/feather-icons"></script>
-  <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-  <!-- Custom CSS -->
   <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
-
-  <!-- Navigation Bar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="#home">Curriculum Vitae</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
@@ -39,192 +29,116 @@
     </div>
   </nav>
 
-  <!-- Header Section -->
   <header class="bg-dark text-white text-center py-5" id="home">
     <div>
       <img src="avatar-copy.png" class="rounded-circle mb-3" alt="Kamlesh Patil" width="150" />
       <h1 class="fw-bold">Kamlesh Patil</h1>
-      <p class="lead">Software Developer | Pune, India</p>
-      <h3>4 Years Experience in Software Development</h3>
+      <p class="lead">Full Stack Software Developer | .NET Core | Angular | Azure</p>
+      <h3>4 Years of Professional Software Development Experience</h3>
       <div class="social-icons mt-3">
         <a href="https://www.linkedin.com/in/iamkamlesh18/" target="_blank" class="text-white me-3"><i data-feather="linkedin"></i></a>
         <a href="https://github.com/iamkamlesh18" target="_blank" class="text-white me-3"><i data-feather="github"></i></a>
         <a href="https://www.facebook.com/itzzmekp" target="_blank" class="text-white me-3"><i data-feather="facebook"></i></a>
         <a href="https://www.instagram.com/thekalpesh9/" target="_blank" class="text-white me-3"><i data-feather="instagram"></i></a>
       </div>
-
-      <!-- Download Button -->
       <a href="#" class="btn btn-warning btn-lg mt-4" data-bs-toggle="modal" data-bs-target="#confirmDownloadModal">
         <i data-feather="arrow-down"></i> Download CV
       </a>
     </div>
   </header>
 
-  <!-- Download CV Modal -->
-  <div class="modal fade" id="confirmDownloadModal" tabindex="-1" aria-hidden="true">
+  <div class="modal fade" id="confirmDownloadModal" tabindex="-1">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="modal-title text-dark">Download CV</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
         </div>
-        <div class="modal-body text-dark">
-          <p>Do you want to download the CV?</p>
-        </div>
+        <div class="modal-body text-dark">Do you want to download the CV?</div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">No</button>
-          <a href="./SDE_KamleshPatil_CV.pdf" class="btn btn-primary" download="KamleshPatil_CV.pdf">Yes</a>
+          <a href="./SDE_KamleshPatil_CV.pdf" class="btn btn-primary" download>Yes</a>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- About Section -->
   <section id="about" class="py-5 bg-light">
     <div class="container">
-      <h2 class="text-center fw-bold mb-4">Profile Summary</h2>
+      <h2 class="text-center fw-bold mb-4">Professional Summary</h2>
       <p>
-        Automation Test Engineer with 4 years of experience in designing and delivering robust test automation frameworks across domains including Retail Banking, Capital Markets, and BFSI. 
-        Expert in scalable solutions using Java, Selenium, Serenity BDD, Cucumber, and REST Assured, with strong command over SQL, API validation, and CI/CD integrations using GitLab, GitHub, Jenkins, and Maven. 
-        Known for ensuring high-quality delivery in Agile teams through effective test strategies and execution.
+        Detail-oriented Full Stack Developer with 4 years of experience building secure, scalable, and cloud-enabled applications.
+        Proficient in <strong>C#, .NET Core, ASP.NET Web API, Angular, React, SQL Server, MySQL</strong>, and modern DevOps practices.
+        Strong expertise in designing REST APIs, microservices, cloud integrations on Azure, and implementing CI/CD pipelines.
+        Passionate about writing clean, maintainable, SOLID-driven code and delivering high-performance software systems.
       </p>
     </div>
   </section>
 
-  <!-- Resume Section -->
   <section id="resume" class="py-5">
     <div class="container">
       <h2 class="text-center fw-bold mb-4"><i class="fas fa-file-alt"></i> Resume</h2>
 
-      <!-- Experience -->
-      <div class="mb-5">
-        <h3><i class="fas fa-briefcase"></i> Experience</h3>
+      <h3><i class="fas fa-briefcase"></i> Experience</h3>
+      <div class="mb-4">
+        <h4>Senior Software Engineer – Capgemini</h4>
+        <p><em>Sept 2021 – Present</em></p>
 
-        <div class="mb-4">
-          <h4>Senior Software Engineer at Capgemini</h4>
-          <p><em>Sept 2021 – Present</em></p>
-
-          <ul class="list-unstyled">
-            <li><strong>Account: COOP (Jan 2025 – Current)</strong></li>
-            <li>• Designed and maintained automation framework using Serenity BDD + Java.</li>
-            <li>• Created UI & API test suites integrated into GitLab CI/CD pipelines.</li>
-            <li>• Identified and resolved frontend/backend bugs with fast turnaround.</li>
-            <li>• Supported Agile delivery cycles with high test coverage and maintainability.</li>
-          </ul>
-
-          <ul class="list-unstyled mt-3">
-            <li><strong>Account: Elements (May 2023 – Dec 2024)</strong></li>
-            <li>• Developed automation using custom Rainbow framework (YAML + Java).</li>
-            <li>• Validated E2E workflows across tracking, maintenance & asset modules.</li>
-            <li>• Built reusable components and test data drivers for regression packs.</li>
-            <li>• Received client appreciation for framework ownership and execution quality.</li>
-          </ul>
-
-          <ul class="list-unstyled mt-3">
-            <li><strong>Account: Union Bank (Sept 2021 – May 2023)</strong></li>
-            <li>• Automated key workflows across Loan, Card, and Digital Banking systems using Selenium.</li>
-            <li>• Created robust test cases from BRDs and mapping documents.</li>
-            <li>• Performed test execution, reporting, and traceability via JIRA and UAT signoffs.</li>
-            <li>• Delivered functional and regression coverage using Selenium-Java with 100% closure.</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- Skills -->
-      <div class="mb-5">
-        <h3><i class="fas fa-code"></i> Skills</h3>
-        <ul class="list-unstyled">
-          <li><strong>Automation:</strong> Serenity BDD, Selenium, Cucumber, TestNG</li>
-          <li><strong>Languages:</strong> Java, C#, JavaScript, Python, SQL</li>
-          <li><strong>Build Tools:</strong> Maven</li>
-          <li><strong>Methodologies:</strong> Agile & Scrum</li>
+        <ul>
+          <li>Developed scalable backend services using <strong>.NET Core, Web API, Azure Functions</strong>.</li>
+          <li>Built and optimized Angular/React UI components for enterprise applications.</li>
+          <li>Designed secure REST APIs with JWT authentication and Swagger documentation.</li>
+          <li>Implemented CI/CD workflows using GitHub Actions, GitLab CI, and Jenkins.</li>
+          <li>Worked with SQL Server & MySQL on schema design, indexing, and performance tuning.</li>
+          <li>Collaborated in Agile sprints, performing code reviews and enforcing clean code standards.</li>
         </ul>
       </div>
 
-      <!-- Tools -->
-      <div class="mb-5">
-        <h3><i class="fas fa-tools"></i> Software & Tools</h3>
-        <ul class="list-unstyled">
-          <li>Visual Studio and Visual Studio Code</li>
-          <li>SSMS, MySQL</li>
-          <li>Git, GitLab & GitHub</li>
-          <li>Jenkins, JIRA, Postman</li>
-        </ul>
-      </div>
+      <h3><i class="fas fa-code"></i> Technical Skills</h3>
+      <ul>
+        <li><strong>Backend:</strong> C#, .NET Core, ASP.NET Web API, Microservices</li>
+        <li><strong>Frontend:</strong> Angular, React, TypeScript, JavaScript</li>
+        <li><strong>Cloud & DevOps:</strong> Azure Functions, App Services, GitHub Actions, Jenkins, Docker (Basic)</li>
+        <li><strong>Databases:</strong> SQL Server, MySQL, Stored Procedures, Query Optimization</li>
+        <li><strong>API & Security:</strong> REST, JWT, OAuth2, Swagger</li>
+        <li><strong>Principles:</strong> SOLID, Clean Architecture, Dependency Injection</li>
+        <li><strong>Tools:</strong> Git, GitHub, GitLab, VS Code, Postman</li>
+      </ul>
 
-      <!-- Certifications -->
-      <div class="mb-5">
-        <h3><i class="fas fa-certificate"></i> Certifications</h3>
-        <p>Microsoft Certified: Azure Fundamentals (AZ-900)</p>
-        <p>Microsoft Certified: Azure AI Fundamentals (AI-900)</p>
-        <p>Agile Software Development - Coursera</p>
-        <p>Responsive Web Design - freeCodeCamp</p>
-        <p>Programming with JavaScript - Coursera</p>
-        <p>GitHub Fundamentals - Coursera</p>
-        <p>Gen AI Specific Training and Learnings</p>
-      </div>
+      <h3><i class="fas fa-tools"></i> Tools & Technologies</h3>
+      <ul>
+        <li>Visual Studio, VS Code</li>
+        <li>SQL Server Management Studio, MySQL Workbench</li>
+        <li>Git, GitHub, GitLab</li>
+        <li>Jenkins, GitHub Actions</li>
+        <li>Postman, Swagger, Fiddler</li>
+      </ul>
 
-      <!-- Education -->
-      <div class="mb-5">
-        <h3><i class="fas fa-graduation-cap"></i> Education</h3>
-        <p><strong>BE Mechanical</strong> – R.C. Patel Institute of Technology Shirpur, 2019</p>
-        <p><strong>Diploma</strong> – Smt. S.S. Patil Institute of Technology Chopda, 2016</p>
-      </div>
-    
-     <!-- Projects -->
-      <div class="mb-5">
-        <h3><i class="fas fa-project-diagram"></i> Projects</h3>
-        <p>
-          <strong><a class="project-link" href="TableGenerator.html" target="_blank">Table Generator</a></strong> –
-          A simple dynamic HTML table generator project built using JavaScript.
-        </p>
-        <p>
-          <strong><a class="project-link" href="littlelemon.html" target="_blank">Little Lemon Restaurant</a></strong> –
-          Restaurant website project showcasing frontend UI and responsive design.
-        </p>
-        <p>
-          <strong><a class="project-link" href="https://iamkamlesh18.github.io/my-portfolio" target="_blank">Portfolio Website</a></strong> –
-          Portfolio website built using React
-        </p>
-        </div>
-      </div>
-  </section>
-
-  <!-- Contact Section -->
-  <section id="contact" class="py-5 bg-light">
-    <div class="container">
-      <h2 class="text-center fw-bold mb-4">Contact Details</h2>
-      <div class="mb-3">
-        <h5>Email:</h5>
-        <p><a href="mailto:patilkamlesh1811@gmail.com">patilkamlesh1811@gmail.com</a></p>
-      </div>
-      <div class="mb-3">
-        <h5>Phone:</h5>
-        <p>+91-7770000347</p>
-      </div>
-      <div class="mb-3">
-        <h5>LinkedIn:</h5>
-        <p><a href="https://www.linkedin.com/in/iamkamlesh18/" target="_blank">linkedin.com/in/iamkamlesh18</a></p>
-      </div>
-      <div class="mb-3">
-        <h5>GitHub:</h5>
-        <p><a href="https://github.com/iamkamlesh18" target="_blank">github.com/iamkamlesh18</a></p>
-      </div>
-      <div class="mb-3">
-        <h5>Portfolio Website:</h5>
-        <p><a href="#">(Coming Soon)</a></p>
-      </div>
+      <h3><i class="fas fa-certificate"></i> Certifications</h3>
+      <p>Microsoft Certified: Azure Fundamentals (AZ-900)</p>
+      <p>Microsoft Certified: Azure AI Fundamentals (AI-900)</p>
+      <p>Agile Development – Coursera</p>
+      <p>Responsive Web Design – freeCodeCamp</p>
+      <p>JavaScript Programming – Coursera</p>
+      <p>GitHub Fundamentals – Coursera</p>
     </div>
   </section>
 
-  <!-- Bootstrap JS -->
+  <section id="contact" class="py-5 bg-light">
+    <div class="container">
+      <h2 class="text-center fw-bold mb-4">Contact Details</h2>
+      <p><strong>Email:</strong> <a href="mailto:patilkamlesh1811@gmail.com">patilkamlesh1811@gmail.com</a></p>
+      <p><strong>Phone:</strong> +91-7770000347</p>
+      <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/iamkamlesh18/" target="_blank">linkedin.com/in/iamkamlesh18</a></p>
+      <p><strong>GitHub:</strong> <a href="https://github.com/iamkamlesh18" target="_blank">github.com/iamkamlesh18</a></p>
+    </div>
+  </section>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-  <!-- Feather icons initialization -->
   <script>feather.replace();</script>
 
   <footer class="text-center py-3 bg-dark text-white">
-    <p>© 2025 - Kamlesh Patil</p>
-    <p>This website is made with ❤</p>
+    © 2025 - Kamlesh Patil | Full Stack Developer
   </footer>
 </body>
 </html>
