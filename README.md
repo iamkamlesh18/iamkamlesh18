@@ -36,7 +36,7 @@ Tech Stack: .NET Core, C#, Web API, React, Angular, SQL, Azure, Microservices, U
 
 ## Education
 
-- R.C. Patel Institute of Technology Shirpur, 2019
+- R. C. Patel Institute of Technology Shirpur, 2019
 - SMT. S. S. Patil Institute Of Technology Chopda, 2016
 
 ## Skills
@@ -65,12 +65,12 @@ Tech Stack: .NET Core, C#, Web API, React, Angular, SQL, Azure, Microservices, U
 - **Email:** [patilkamlesh1811@gmail.com](mailto:patilkamlesh1811@gmail.com)
 - **Phone:** +91-7770000347
 
-### **Portfolio Website - In Progress** - [<img align="left" alt="iamkamlesh18.github.io/my-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+### **Portfolio Website - In Progress**  [<img align="left" alt="iamkamlesh18.github.io/my-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [website]: https://iamkamlesh18.github.io/my-portfolio/
 
 ### Connect with me:
 
-[<img align="left" alt="iamkamlesh18.github.io/iamkamlesh18" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="iamkamlesh18.github.io/iamkamlesh18" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
 [<img align="left" alt="Smart BearBulls | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="iamkamlesh18 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thekalp_18n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -78,7 +78,7 @@ Tech Stack: .NET Core, C#, Web API, React, Angular, SQL, Azure, Microservices, U
 
 <br />
 
-[website]: https://iamkamlesh18.github.io/iamkamlesh18/
+[website1]: https://iamkamlesh18.github.io/iamkamlesh18/
 [youtube]: https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
 [instagram]: https://www.instagram.com/thekalp_18n/
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
@@ -86,4 +86,4 @@ Tech Stack: .NET Core, C#, Web API, React, Angular, SQL, Azure, Microservices, U
 <br />
 Thanks for visiting ❤️
 <br />
-© 2024 - Kamlesh Patil. All rights reserved.
+© 2025 - Kamlesh Patil. All rights reserved.
