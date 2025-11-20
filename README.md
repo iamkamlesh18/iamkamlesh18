@@ -4,7 +4,7 @@
 
 Welcome to My Profile!
 
-## I'm a Software Developer | 3x Azure Certified | C# | React | Angular | JavaScript | Node.js | SQL | YouTuber!
+## I'm a Dot Net Full Stack Developer | Software Developer | 3x Azure Certified | C# | React | Angular | JavaScript | SQL | YouTuber
 
 - 🔭 I’m currently working as a Senior Software Engineer at Capgemini!
 - 🥅 Current Goals: Contribute more to open source and create more content on YouTube
