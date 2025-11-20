@@ -16,13 +16,18 @@ Experienced in .NET Core, C#, Web API, React, Angular, JavaScript, SQL Server, A
 
 ## Experience
 
-### Software Engineer at Capgemini (Oct 2021 - Present)
+### Senior Software Engineer — Capgemini (Sept 2021 – Present)
+Tech Stack: .NET Core, C#, Web API, React, Angular, SQL, Azure, Microservices, UI/API Engineering
 
-- Developed an automotive fleet management application.
-- Created efficient UI components and conducted unit testing.
-- Identified and rectified bugs in both frontend and backend components.
-- Developed and designed efficient APIs and UIs for Loan Application.
-- Provided weekly project updates and maintained JIRA for tracking.
+- Engineered scalable .NET Core Web APIs and optimized microservices across Retail Banking, Capital Markets, and BFSI.
+- Developed front-end modules using React and Angular, with reusable components and performance improvements.
+- Built Loan Application APIs and UIs, improving data flow, request handling, and user experience.
+- Troubleshot and resolved frontend and backend issues across distributed systems.
+- Worked earlier on automation using Selenium, Serenity BDD, Cucumber, and REST Assured.
+- Managed CI/CD pipelines using GitLab, GitHub, Jenkins, and Azure.
+- Performed unit testing for APIs, services, and UI modules.
+- Maintained JIRA boards and provided weekly project reports.
+- Participated in architecture discussions and implemented scalable design practices.
 
 ### Digital Marketing & Graphic Designer at Optima Life Sciences Pvt. Ltd. (Dec 2020 - Jun 2021)
 
