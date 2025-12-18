@@ -1,89 +1,126 @@
 ## Hi 👋
 
-### I am Kamlesh Patil 🤩
+### I am Kamlesh Patil 🤩  
 
 Welcome to My Profile!
 
-## I'm a Dot Net Full Stack Developer | Software Developer | 3x Azure Certified | C# | React | Angular | JavaScript | SQL | YouTuber
+## I'm a Salesforce Developer | Salesforce Admin → DevOps | Apex | LWC | Flows | OmniStudio | CPQ | Trailblazer
 
-- 🔭 I’m currently working as a Senior Software Engineer at Capgemini!
-- 🥅 Current Goals: Contribute more to open source and create more content on YouTube
-- ⚡ Fun fact: I love to play Football (Day & Night) 🤩
+- 🔭 I’m currently working as a **Senior Software Engineer (Salesforce)** at **Capgemini**
+- 🥅 **Current Goals:** Master OmniStudio & CPQ, contribute to the Salesforce ecosystem, and build scalable enterprise CRM solutions
+- ⚡ **Fun fact:** I love playing Football (Day & Night) 🤩
+
+---
 
 ## About Me
 
-Experienced in .NET Core, C#, Web API, React, Angular, JavaScript, SQL Server, Azure Functions, Azure App Services, Git, GitHub, CI/CD pipelines, and full-stack development. I combine backend, frontend, cloud, and API skills with experience in automation and testing. Actively seeking opportunities to grow further in backend engineering, cloud development, and full-stack product building.
+Salesforce Developer with a strong foundation in **Salesforce Administration** and hands-on experience in  
+**Apex, Lightning Web Components (LWC), Salesforce Flows, and SOQL/SOSL**.
+
+I started my career as a Salesforce Admin, moved into Salesforce Development, and later supported  
+Salesforce **DevOps and release management** across multiple environments. I approach Salesforce with a  
+business-first and scalability-driven mindset.
+
+Currently, I am expanding my expertise into **OmniStudio and Salesforce CPQ**, focusing on configuration-driven, industry-ready Salesforce solutions.
+
+Actively seeking opportunities to grow as a **Salesforce Developer / Platform Engineer**.
+
+---
 
 ## Experience
 
-### Senior Software Engineer — Capgemini (Sept 2021 – Present)
-Tech Stack: .NET Core, C#, Web API, React, Angular, SQL, Azure, Microservices, UI/API Engineering
+### Senior Software Engineer (Salesforce) — Capgemini  
+**Sept 2021 – Present**  
+**Tech Stack:** Salesforce Platform, Apex, Triggers, LWC, SOQL/SOSL, Salesforce Flows, REST APIs, DevOps & Release Management
 
-- Engineered scalable .NET Core Web APIs and optimized microservices across Retail Banking, Capital Markets, and BFSI.
-- Developed front-end modules using React and Angular, with reusable components and performance improvements.
-- Built Loan Application APIs and UIs, improving data flow, request handling, and user experience.
-- Troubleshot and resolved frontend and backend issues across distributed systems.
-- Worked earlier on automation using Selenium, Serenity BDD, Cucumber, and REST Assured.
-- Managed CI/CD pipelines using GitLab, GitHub, Jenkins, and Azure.
-- Performed unit testing for APIs, services, and UI modules.
-- Maintained JIRA boards and provided weekly project reports.
-- Participated in architecture discussions and implemented scalable design practices.
+- Worked as a **Salesforce Administrator** handling users, profiles, permission sets, sharing rules, validation rules, approvals, and data management.
+- Developed **Apex classes and triggers** for Lead, Account, Opportunity, and custom object automation.
+- Built **Lightning Web Components (LWC)** for dashboards and user-centric workflows.
+- Implemented **Record-Triggered, Screen, and Scheduled Flows** for routing, approvals, and notifications.
+- Ensured **governor-limit-safe development** with proper Apex test coverage and structured error handling.
+- Supported **Salesforce DevOps & release management** (deployments, sandbox refreshes, environment promotions).
+- Collaborated with business and technical teams to translate requirements into scalable Salesforce architecture.
+- Currently learning and working on **OmniStudio and Salesforce CPQ concepts**.
 
-### Digital Marketing & Graphic Designer at Optima Life Sciences Pvt. Ltd. (Dec 2020 - Jun 2021)
-
-- Managed digital marketing campaigns and graphic design tasks.
-- Created visual content for social media and marketing materials.
+---
 
 ## Education
 
-- R. C. Patel Institute of Technology Shirpur, 2019
-- SMT. S. S. Patil Institute Of Technology Chopda, 2016
+- **Bachelor of Engineering (Mechanical)** – R. C. Patel Institute of Technology, Shirpur (2019)
+- **Diploma in Mechanical Engineering** – Smt. S. Patil Institute of Technology, Chopda (2016)
+
+---
 
 ## Skills
 
-- **Languages:** C#, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** .NET Core, ASP.NET Web API, Angular, React.js, Node.js
-- **Programming:** C#, Java, Python (learning level)
-- **Databases:** SQL Server, MySQL, MongoDB (familiar)
-- **Cloud:** Azure (Functions, App Services, Storage), Azure DevOps (exposure)
-- **DevOps:** CI/CD, Jenkins, GitHub Actions
-- **Tools:** Git, GitHub, GitLab, Postman, Visual Studio, VS Code, SSMS
+- **Salesforce Admin:** User Management, Security Model, Profiles, Permission Sets, Data Management  
+- **Salesforce Development:** Apex, Triggers, SOQL, SOSL, Asynchronous Apex  
+- **Lightning:** Lightning Web Components (LWC), Aura (basic), Lightning Data Service  
+- **Automation:** Record-Triggered Flows, Screen Flows, Scheduled Flows  
+- **Integrations:** REST APIs, JSON/XML, Named Credentials  
+- **DevOps:** CI/CD exposure, Release Management, Deployments, Test Class Governance  
+- **Advanced (Learning):** OmniStudio, Salesforce CPQ  
+
+---
 
 ## Certifications
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Azure Developer Associate (AZ-204)
+- Salesforce Certified **Agentforce Specialist**
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- Microsoft Certified: **Azure AI Fundamentals (AI-900)**
+- Microsoft Certified: **Azure Developer Associate (AZ-204)**
 - Agile Software Development - Coursera
 - Responsive Web Design - freeCodeCamp
 - Programming with JavaScript - Coursera
 - GitHub Fundamentals - Coursera
-- Microsoft Azure Services and Concepts - Pluralsight
+
+---
 
 ## Contact Details
 
 - **Email:** [patilkamlesh1811@gmail.com](mailto:patilkamlesh1811@gmail.com)
 - **Phone:** +91-7770000347
 
-### **Portfolio Website - In Progress**  [<img align="left" alt="iamkamlesh18.github.io/my-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[website]: https://iamkamlesh18.github.io/my-portfolio/
+---
 
-### Connect with me:
+## 🌐 Portfolio Website  
+[<img align="left" alt="Portfolio Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 
-[<img align="left" alt="iamkamlesh18.github.io/iamkamlesh18" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
-[<img align="left" alt="Smart BearBulls | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="iamkamlesh18 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="thekalp_18n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="itzzmekp | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[portfolio]: https://iamkamlesh18.github.io/my-portfolio/
 
 <br />
 
-[website1]: https://iamkamlesh18.github.io/iamkamlesh18/
+---
+
+## 🌐 Salesforce Developer Profile Website  
+[<img align="left" alt="GitHub Profile Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][githubsite]
+
+[githubsite]: https://iamkamlesh18.github.io/iamkamlesh18/
+
+<br />
+
+---
+
+## Connect with me
+
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]  
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]  
+[<img align="left" alt="Trailhead" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg" />][trailhead]
+
+<br />
+
+[portfolio]: https://iamkamlesh18.github.io/my-portfolio/
 [youtube]: https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
-[instagram]: https://www.instagram.com/thekalp_18n/
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
+[instagram]: https://www.instagram.com/thekalp_18n/
 [facebook]: https://www.facebook.com/itzzmekp
+[trailhead]: https://www.salesforce.com/trailblazer/iamkamlesh18
+
+---
+
+Thanks for visiting ❤️  
 <br />
-Thanks for visiting ❤️
-<br />
-© 2025 - Kamlesh Patil. All rights reserved.
+© 2025 – Kamlesh Patil. All rights reserved.
