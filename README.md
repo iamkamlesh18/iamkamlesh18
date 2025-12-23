@@ -83,19 +83,17 @@ Actively seeking opportunities to grow as a **Salesforce Developer / Platform En
 
 ---
 
-## 🌐 Portfolio Website  
+## 🌐 Portfolio Website - Using React & Node.js -  [portfolio]: https://iamkamlesh18.github.io/my-portfolio/
 [<img align="left" alt="Portfolio Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 
-[portfolio]: https://iamkamlesh18.github.io/my-portfolio/
 
 <br />
 
 ---
 
-## 🌐 Salesforce Developer Profile Website  
+## 🌐 Salesforce Developer Profile Website - Resume/CV Website - [githubsite]: https://iamkamlesh18.github.io/iamkamlesh18/
 [<img align="left" alt="GitHub Profile Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][githubsite]
 
-[githubsite]: https://iamkamlesh18.github.io/iamkamlesh18/
 
 <br />
 
@@ -112,7 +110,7 @@ Actively seeking opportunities to grow as a **Salesforce Developer / Platform En
 
 <br />
 
-[portfolio]: https://iamkamlesh18.github.io/my-portfolio/
+[portfolio]: https://iamkamlesh18.github.io/iamkamlesh18/
 [youtube]: https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
 [linkedin]: https://www.linkedin.com/in/iamkamlesh18/
 [instagram]: https://www.instagram.com/thekalp_18n/
