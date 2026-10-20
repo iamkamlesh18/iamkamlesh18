@@ -18,7 +18,7 @@ Welcome to my profile!
 
 ## About Me
 
-I am a **Software Development Engineer in Test (SDET) / Automation Test Engineer** with **4+ years of experience** in Software Testing, Automation Testing, Quality Engineering and enterprise application testing.
+I am a **Software Development Engineer in Test (SDET) / Automation Test Engineer** with **5 years of experience** in Software Testing, Automation Testing, Quality Engineering and enterprise application testing.
 
 I have worked across **Banking, Financial Services and Fleet Management** domains, contributing to functional testing, regression testing, automation framework development, API testing, defect management and Agile delivery.
 
@@ -215,8 +215,7 @@ Worked on enterprise Fleet Management applications with focus on functional test
 
 - Microsoft Certified: **Azure Fundamentals — AZ-900**
 - Microsoft Certified: **Azure AI Fundamentals — AI-900**
-- Microsoft Certified: **Azure Developer Associate — AZ-204**
-- Microsoft Certified: **Azure Data Fundamentals — DP-900**
+- Microsoft Certified: **Azure Developer Associate — AZ-204** (valid through November 2026)
 - **Salesforce Certified Agentforce Specialist**
 - Agile Software Development — Coursera
 
@@ -260,23 +259,21 @@ API
  ├── REST Assured
  └── Postman
 
-Database
- ├── SQL Server
- ├── MySQL
- ├── MongoDB
- └── Snowflake
+Additional automation
+ ├── Cypress
+ ├── Playwright
+ └── Page Object Model
 
-DevOps
- ├── Git
- ├── GitHub
- ├── GitLab
+Tools
+ ├── Maven
  ├── Jenkins
- └── Docker
+ ├── Git / GitHub
+ ├── GitLab CI/CD
+ └── JIRA
 
 Testing
  ├── Functional
  ├── Regression
- ├── API
  ├── Mobile
  ├── Integration
  └── E2E
