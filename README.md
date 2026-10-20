@@ -1,126 +1,330 @@
-## Hi 👋
+# Hi 👋
 
-### I am Kamlesh Patil 🤩  
+### I am Kamlesh Patil 🤩
 
-Welcome to My Profile!
+Welcome to my profile!
 
-## I'm a Salesforce Developer | Salesforce Admin → DevOps | Apex | LWC | Flows | OmniStudio | CPQ | Trailblazer
+## I'm a Senior Software Engineer | SDET | Automation Test Engineer
 
-- 🔭 I’m currently working as a **Senior Software Engineer (Salesforce)** at **Capgemini**
-- 🥅 **Current Goals:** Master OmniStudio & CPQ, contribute to the Salesforce ecosystem, and build scalable enterprise CRM solutions
-- ⚡ **Fun fact:** I love playing Football (Day & Night) 🤩
+**Java | Selenium | Serenity BDD | Cucumber | TestNG | API Testing | REST Assured | SQL | CI/CD | Agile**
+
+- 🔭 Currently working as a **Senior Software Engineer / Automation Test Engineer at Capgemini**
+- 🧪 Specialized in **UI Automation, BDD, API Testing, Regression Testing & Quality Engineering**
+- 🚀 Building scalable and maintainable **test automation frameworks**
+- 🎯 Current Goal: Grow into a strong **SDET / Quality Engineering professional**
+- ⚡ Fun fact: I love learning technology, automation and solving real-world engineering problems.
 
 ---
 
 ## About Me
 
-Salesforce Developer with a strong foundation in **Salesforce Administration** and hands-on experience in  
-**Apex, Lightning Web Components (LWC), Salesforce Flows, and SOQL/SOSL**.
+I am a **Software Development Engineer in Test (SDET) / Automation Test Engineer** with **4+ years of experience** in Software Testing, Automation Testing, Quality Engineering and enterprise application testing.
 
-I started my career as a Salesforce Admin, moved into Salesforce Development, and later supported  
-Salesforce **DevOps and release management** across multiple environments. I approach Salesforce with a  
-business-first and scalability-driven mindset.
+I have worked across **Banking, Financial Services and Fleet Management** domains, contributing to functional testing, regression testing, automation framework development, API testing, defect management and Agile delivery.
 
-Currently, I am expanding my expertise into **OmniStudio and Salesforce CPQ**, focusing on configuration-driven, industry-ready Salesforce solutions.
+My primary automation stack includes:
 
-Actively seeking opportunities to grow as a **Salesforce Developer / Platform Engineer**.
+**Java + Selenium WebDriver + Serenity BDD + Cucumber + TestNG + REST Assured**
 
----
+I enjoy solving real-world automation problems such as synchronization issues, dynamic elements, reusable automation components, flaky tests, test data challenges and regression optimization.
 
-## Experience
+I believe good automation is not about writing more scripts.
 
-### Senior Software Engineer (Salesforce) — Capgemini  
-**Sept 2021 – Present**  
-**Tech Stack:** Salesforce Platform, Apex, Triggers, LWC, SOQL/SOSL, Salesforce Flows, REST APIs, DevOps & Release Management
-
-- Worked as a **Salesforce Administrator** handling users, profiles, permission sets, sharing rules, validation rules, approvals, and data management.
-- Developed **Apex classes and triggers** for Lead, Account, Opportunity, and custom object automation.
-- Built **Lightning Web Components (LWC)** for dashboards and user-centric workflows.
-- Implemented **Record-Triggered, Screen, and Scheduled Flows** for routing, approvals, and notifications.
-- Ensured **governor-limit-safe development** with proper Apex test coverage and structured error handling.
-- Supported **Salesforce DevOps & release management** (deployments, sandbox refreshes, environment promotions).
-- Collaborated with business and technical teams to translate requirements into scalable Salesforce architecture.
-- Currently learning and working on **OmniStudio and Salesforce CPQ concepts**.
+**It is about building reliable software quality into the development lifecycle.**
 
 ---
 
-## Education
+# 💼 Experience
 
-- **Bachelor of Engineering (Mechanical)** – R. C. Patel Institute of Technology, Shirpur (2019)
-- **Diploma in Mechanical Engineering** – Smt. S. Patil Institute of Technology, Chopda (2016)
+## Senior Software Engineer — Capgemini
 
----
+**Sept 2021 – Present**
 
-## Skills
+### Automation & Testing
 
-- **Salesforce Admin:** User Management, Security Model, Profiles, Permission Sets, Data Management  
-- **Salesforce Development:** Apex, Triggers, SOQL, SOSL, Asynchronous Apex  
-- **Lightning:** Lightning Web Components (LWC), Aura (basic), Lightning Data Service  
-- **Automation:** Record-Triggered Flows, Screen Flows, Scheduled Flows  
-- **Integrations:** REST APIs, JSON/XML, Named Credentials  
-- **DevOps:** CI/CD exposure, Release Management, Deployments, Test Class Governance  
-- **Advanced (Learning):** OmniStudio, Salesforce CPQ  
-
----
-
-## Certifications
-
-- Salesforce Certified **Agentforce Specialist**
-- Microsoft Certified: **Azure Fundamentals (AZ-900)**
-- Microsoft Certified: **Azure AI Fundamentals (AI-900)**
-- Microsoft Certified: **Azure Developer Associate (AZ-204)**
-- Agile Software Development - Coursera
-- Responsive Web Design - freeCodeCamp
-- Programming with JavaScript - Coursera
-- GitHub Fundamentals - Coursera
+- Developed and maintained automated test suites using **Java, Selenium WebDriver, Serenity BDD and Cucumber**.
+- Designed reusable automation components using **Page Object Model (POM)** and modular framework architecture.
+- Created and maintained **BDD feature files, scenarios, step definitions, hooks and reusable test steps**.
+- Implemented dynamic **XPath and parameterized locators** to improve framework scalability.
+- Implemented robust synchronization strategies for dynamic web applications and loading elements.
+- Performed **Functional, Regression, Smoke, Sanity, Integration and End-to-End Testing**.
+- Designed test scenarios and test cases from business requirements and acceptance criteria.
+- Performed defect identification, documentation, tracking and validation.
+- Worked with **REST APIs, Postman and REST Assured** for API validation and automation.
+- Performed backend/data validation using **SQL**.
+- Supported CI/CD-based test execution and worked with **Git, GitLab/GitHub and Jenkins**.
+- Worked in **Agile/Scrum** teams with Developers, Business Analysts, Product Owners and Scrum Masters.
+- Participated in sprint planning, grooming, daily stand-ups, reviews and retrospectives.
 
 ---
 
-## Contact Details
+# 🚀 Real-World Automation Contributions
 
-- **Email:** [patilkamlesh1811@gmail.com](mailto:patilkamlesh1811@gmail.com)
-- **Phone:** +91-7770000347
+### 🔐 Dynamic Credential Handling
 
----
+Solved automation failures caused by database refreshes and changing user credentials.
 
-## 🌐 Portfolio Website - Using React & Node.js -  
-[<img align="left" alt="Portfolio Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+Implemented a resilient login strategy capable of handling alternate credentials, reducing unnecessary execution failures and manual intervention.
 
-[portfolio]: https://iamkamlesh18.github.io/my-portfolio/
+### ⏳ Spinner & Synchronization Handling
 
-<br />
+Solved flaky automation caused by inconsistent application loading times.
 
----
+Implemented synchronization based on application state rather than fixed waits, improving execution stability.
 
-## 🌐 Salesforce Developer Profile Website - Resume/CV Website - 
-[<img align="left" alt="GitHub Profile Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][githubsite]
+### ♻️ Reusable Automation Architecture
 
-[githubsite]: https://iamkamlesh18.github.io/iamkamlesh18/
+Designed reusable steps such as:
 
-<br />
+`Given user logs into application`
 
----
+Once implemented, the step could be reused across multiple business scenarios, reducing duplicate automation development.
 
-## Connect with me
+### 🎯 Dynamic Locators
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]  
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]  
-[<img align="left" alt="Trailhead" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg" />][trailhead]
+Implemented parameterized locator strategies such as:
 
-<br />
+`//button[text()='{0}']`
 
-[portfolio]: https://iamkamlesh18.github.io/iamkamlesh18/
-[youtube]: https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
-[linkedin]: https://www.linkedin.com/in/iamkamlesh18/
-[instagram]: https://www.instagram.com/thekalp_18n/
-[facebook]: https://www.facebook.com/itzzmekp
-[trailhead]: https://www.salesforce.com/trailblazer/iamkamlesh18
+This improved locator reusability and reduced framework maintenance effort.
 
 ---
 
-Thanks for visiting ❤️  
-<br />
-© 2025 – Kamlesh Patil. All rights reserved.
+# 🧪 Testing Expertise
+
+### Functional Testing
+- Requirement Analysis
+- Test Scenario Design
+- Test Case Design
+- Functional Testing
+- Integration Testing
+- End-to-End Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- Risk-Based Testing
+
+### Test Design Techniques
+- Boundary Value Analysis
+- Equivalence Partitioning
+- Decision Table Testing
+- Error Guessing
+- Positive & Negative Testing
+
+### Defect Management
+- Defect Life Cycle
+- Defect Reporting
+- Severity & Priority
+- Root Cause Analysis
+- Defect Retesting
+- Regression Validation
+
+---
+
+# ⚙️ Automation Stack
+
+### Programming
+- Java
+- OOP
+- Collections
+- Exception Handling
+- Streams
+- Lambda Expressions
+- File Handling
+
+### Web Automation
+- Selenium WebDriver
+- XPath
+- CSS Selectors
+- Explicit Wait
+- Fluent Wait
+- Frames
+- Windows
+- Alerts
+- Dropdowns
+- Actions Class
+- JavaScript Executor
+
+### BDD & Frameworks
+- Serenity BDD
+- Cucumber
+- Gherkin
+- TestNG
+- JUnit
+- Page Object Model
+- Data-Driven Testing
+- Reusable Components
+
+### API Testing
+- REST API
+- REST Assured
+- Postman
+- JSON
+- HTTP Methods
+- Status Codes
+- Authentication
+- Request/Response Validation
+
+### DevOps & CI/CD
+- Git
+- GitHub
+- GitLab
+- Jenkins
+- Docker
+- CI/CD Pipelines
+- Automated Test Execution
+
+### Database
+- SQL
+- SQL Server
+- MySQL
+- MongoDB
+- Snowflake
+
+### Additional
+- BrowserStack
+- Mobile Testing
+- Cross-Browser Testing
+- Mainframe Integration Testing
+
+---
+
+# 🏦 Domain Experience
+
+### Banking & Financial Services
+
+Worked on enterprise banking applications involving:
+
+- Customer workflows
+- Authentication
+- Account services
+- Transaction-related functionality
+- Regression validation
+- Integration testing
+- Production validation
+- Environment validation
+
+### Fleet Management
+
+Worked on enterprise Fleet Management applications with focus on functional testing, automation and regression testing.
+
+---
+
+# 🏆 Certifications
+
+- Microsoft Certified: **Azure Fundamentals — AZ-900**
+- Microsoft Certified: **Azure AI Fundamentals — AI-900**
+- Microsoft Certified: **Azure Developer Associate — AZ-204**
+- Microsoft Certified: **Azure Data Fundamentals — DP-900**
+- **Salesforce Certified Agentforce Specialist**
+- Agile Software Development — Coursera
+
+---
+
+# 🎓 Education
+
+**Bachelor of Engineering — Mechanical Engineering**  
+R. C. Patel Institute of Technology, Shirpur — 2019
+
+**Diploma — Mechanical Engineering**  
+Smt. S. Patil Institute of Technology, Chopda — 2016
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SDET Architecture
+- Playwright
+- Cypress
+- Advanced API Automation
+- CI/CD Automation
+- Cloud Testing
+- AI-Assisted Testing
+- Generative AI for Quality Engineering
+- Agentic AI & AI Testing
+
+---
+
+# 🛠️ Tech Stack
+
+```text
+Java
+ ├── Selenium
+ ├── Serenity BDD
+ ├── Cucumber
+ ├── TestNG
+ └── JUnit
+
+API
+ ├── REST Assured
+ └── Postman
+
+Database
+ ├── SQL Server
+ ├── MySQL
+ ├── MongoDB
+ └── Snowflake
+
+DevOps
+ ├── Git
+ ├── GitHub
+ ├── GitLab
+ ├── Jenkins
+ └── Docker
+
+Testing
+ ├── Functional
+ ├── Regression
+ ├── API
+ ├── Mobile
+ ├── Integration
+ └── E2E
+```
+
+---
+
+# 🌐 Portfolio
+
+**Portfolio:**  
+https://iamkamlesh18.github.io/my-portfolio/
+
+**Developer Profile:**  
+https://iamkamlesh18.github.io/iamkamlesh18/
+
+---
+
+# 🤝 Connect With Me
+
+**LinkedIn:**  
+https://www.linkedin.com/in/iamkamlesh18/
+
+**GitHub:**  
+https://github.com/iamkamlesh18
+
+**YouTube:**  
+https://www.youtube.com/channel/UCzSKULVwWDGQ5fOHIvoMJrw
+
+**Instagram:**  
+https://www.instagram.com/thekalp_18n/
+
+**Trailhead:**  
+https://www.salesforce.com/trailblazer/iamkamlesh18
+
+---
+
+### 💡 My Engineering Philosophy
+
+> **Don't automate everything. Automate what creates value.**
+
+Good testing finds defects.
+
+Great automation builds confidence.
+
+Exceptional quality engineering helps teams **ship better software faster.**
+
+---
+
+Thanks for visiting ❤️
+
+**© 2026 – Kamlesh Patil**
